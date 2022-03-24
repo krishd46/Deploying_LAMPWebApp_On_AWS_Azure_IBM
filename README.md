@@ -1,4 +1,3 @@
 # simplesurveywebsite
-CLOUD SERVICE DESIGN LAB (Performed in March 2021)
 
-This is a simple survey website to conduct ask users for feedback with admin login/register. 
+This is a simple survey website to conduct ask users for feedback with admin login/register. Deployed on IBM cloud.
